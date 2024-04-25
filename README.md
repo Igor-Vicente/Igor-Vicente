@@ -1,6 +1,6 @@
-<div align="center">
-  <h4> hi,  </h4>
-</div>
+  <h1 align="left">Hi guys👋</h1>
+  <h3 align="left"> let's do our best !!!</h3>
+
 
 ![image](https://raw.githubusercontent.com/Igor-Vicente/Igor-Vicente/main/line.png)
 
@@ -13,9 +13,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/igor-vicente-machado-1818a8219/)
 
+- 🧰 currently focused on **React, Vite, Tailwindcss, C#, AspNet, Docker**.
+- 🔥 learning english
+<!--
 ## Check my Popular Repos (soon)⭐🔥 
 ⚡
-<!--
 <div>    
   <a href="" target="_blank"><img width="100px" height="100px" src="" /></a>
 </div>
