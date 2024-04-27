@@ -14,7 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/igor-vicente-machado-1818a8219/)
 
 - 🧰 currently focused on **React, Vite, Tailwindcss, C#, AspNet, Docker**.
-- 🔥 learning english
 <!--
 ## Check my Popular Repos (soon)⭐🔥 
 ⚡
