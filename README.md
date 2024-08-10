@@ -1,4 +1,3 @@
-  <h1 align="left">Hi guys👋</h1>
 
 ![image](https://raw.githubusercontent.com/Igor-Vicente/Igor-Vicente/main/line.png)
 
@@ -11,7 +10,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/igor-vicente-machado-1818a8219/)
 
-- 🧰 currently focused on **React, Vite, Tailwindcss, C#, AspNet, Docker**.
 <!--
 ## Check my Popular Repos (soon)⭐🔥 
 ⚡
