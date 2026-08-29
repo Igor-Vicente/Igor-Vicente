@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência no desenvolvimento de aplicações de ponta a ponta, integrações com serviços governamentais, APIs REST e SOAP, autenticação e autorização, além da publicação de sistemas em ambientes on-premises e em nuvem.
+Formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência no desenvolvimento de aplicações web de ponta a ponta, integrações com serviços governamentais, APIs REST e SOAP, autenticação e autorização, além da publicação de sistemas em ambientes on-premises e em nuvem.
 
 Minha trajetória também inclui aprovações em concursos públicos na área de tecnologia. Entre os resultados, destacam-se:
 
