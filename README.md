@@ -70,7 +70,7 @@ Minha trajetória também inclui aprovações em concursos públicos na área de
 
 <div align="center">
   <img width="49%" height="195" src="https://awesome-github-stats.azurewebsites.net/user-stats/Igor-Vicente?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" alt="Estatísticas do GitHub de Igor Vicente" />
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Vicente&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" alt="Linguagens mais utilizadas por Igor Vicente" />
+  <img width="49%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igor-Vicente&theme=github_dark" alt="Linguagens mais utilizadas por Igor Vicente" />
 </div>
 
 ![Linha decorativa](https://raw.githubusercontent.com/Igor-Vicente/Igor-Vicente/main/line.png)
